@@ -1,4 +1,4 @@
-# simonhaas.github.io
+# www.simonhaas.eu
 
 [Blog](https://simonhaas.github.io/blog/)  
 [Tallycounter](https://simonhaas.github.io/tallycounter/)
