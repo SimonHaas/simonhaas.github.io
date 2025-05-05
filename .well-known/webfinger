@@ -1,5 +1,5 @@
 {
-  "subject": "acct:webfinger@simonhaas.eu",
+  "subject": "acct:simon.haas@simonhaas.eu",
   "links": [
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
