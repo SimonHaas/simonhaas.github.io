@@ -1097,3 +1097,12 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* btc */
+.button.button-btc {
+  color: #FFFFFF;
+  background-color: #51b13e;
+}
+.button.button-btc:hover,
+.button.button-btc:focus {
+  filter: brightness(90%);
+}
