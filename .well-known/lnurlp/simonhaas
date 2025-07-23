@@ -1,0 +1,8 @@
+{
+    "callback": "https://btcpay.simonhaas.eu/BTC/UILNURL/pay/lnaddress/simonhaas",
+    "metadata": "[[\"text/identifier\",\"simonhaas@btcpay.simonhaas.eu\"],[\"text/plain\",\"Paid to Simon Haas (Order ID: )\"]]",
+    "tag": "payRequest",
+    "minSendable": 1000,
+    "maxSendable": 612000000000,
+    "commentAllowed": 2000
+}
