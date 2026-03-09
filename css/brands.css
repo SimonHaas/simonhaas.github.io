@@ -1106,3 +1106,13 @@ button:hover,
 .button.button-btc:focus {
   filter: brightness(90%);
 }
+
+/* nostr */
+.button.button-nostr {
+  color: #FFFFFF;
+  background-color: #662482;
+}
+.button.button-nostr:hover,
+.button.button-nostr:focus {
+  filter: brightness(90%);
+}
